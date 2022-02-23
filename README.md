@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, My name is Haffid Hans</h1>
-<h3 align="center">I am a creator and developer. I'm passionate about everything creative with a bias towards video games.</h3>
+<h1 align="center">Hi :earth_americas:, My name is Haffid Hans</h1>
+<h3 align="center">I am a creator and developer. I'm passionate about everything creative inclined with video games in mind.</h3>
 
 - 🔭 I’m currently working on [HMC's Website](https://github.com/HaffidHans/HMC)
 
